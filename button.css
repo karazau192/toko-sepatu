@@ -1,0 +1,15 @@
+/* styles/main.css */
+/* Gaya untuk tombol di pojok kanan atas */
+.button-top {
+    background-color: #1d4ed8; /* Warna latar belakang biru */
+    color: white; /* Warna teks putih */
+    padding: 10px 20px; /* Padding tombol */
+    border-radius: 5px; /* Sudut membulat */
+    text-decoration: none; /* Menghilangkan garis bawah */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Bayangan */
+    transition: background-color 0.3s; /* Transisi warna latar belakang */
+}
+
+.button-top:hover {
+    background-color: #2563eb; /* Warna latar belakang saat hover */
+}
